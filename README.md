@@ -468,4 +468,4 @@ Test Here : https://Torrent-Api-py.ryukme.repl.co/api/v1/search?site=tgx&query=a
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam250/torrent-api)
